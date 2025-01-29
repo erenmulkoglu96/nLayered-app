@@ -22,4 +22,4 @@ Northwind.WebFormsUI başlangıç ​​projesi olarak ayarlayın.
 <br>
 <br>
 
-Eğitim için Engin Demiroğ'a saygılar, sevgiler.
+Eğitim: Engin Demiroğ
