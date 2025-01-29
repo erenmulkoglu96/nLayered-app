@@ -3,7 +3,7 @@ Katmanlı mimarileri öğrenmek için geliştirdiğim bir Windows Forms uygulama
 (A Windows Forms application I developed to learn layered architectures. In this application, adding, listing, updating and deleting operations can be performed on the products in the Products and Categories table in the Northwind database with the help of Entity Framework. In the application, the Ninject library was used to control dependent objects and the FluentValidation library was used to control validation processes.)
 
 
-Insallation & Usage (Kurulum ve Kullanım)
+<b>Insallation & Usage (Kurulum ve Kullanım)<b>
 
 Northwind veritabanına <a href="https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs">buradan</a> ulaşabilirsiniz.<br />
 Entity Framework paketi NuGet Paket Yöneticisi aracılığıyla Northwind.DataAccess ve Northwind.WebFormsUI katmanlarına eklendi. <br />
