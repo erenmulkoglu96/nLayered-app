@@ -6,7 +6,7 @@ Katmanlı mimarileri öğrenmek için geliştirdiğim bir Windows Forms uygulama
 Insallation & Usage (Kurulum ve Kullanım)
 
 Northwind veritabanına <a href="https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs">buradan</a> ulaşabilirsiniz.
-Entity Framework paketi NuGet Paket Yöneticisi aracılığıyla Northwind.DataAccess ve Northwind.WebFormsUI katmanlarına eklendi. < /br>
+Entity Framework paketi NuGet Paket Yöneticisi aracılığıyla Northwind.DataAccess ve Northwind.WebFormsUI katmanlarına eklendi. <br />
 FluentValidation paketi Nuget Paket Yöneticisiyle Northwind.Business katmanına eklendi.< /br>
 Ninject paketi NuGet Paket Yöneticisi aracılığıyla Northwind.Business ve Northwind.WebFormsUI katmanlarına eklendi.< /br>
 Northwind.WebFormsUI başlangıç ​​projesi olarak ayarlayın.
